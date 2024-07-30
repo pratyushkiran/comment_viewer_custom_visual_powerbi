@@ -1,0 +1,34 @@
+.customVisual {
+  width: 100%;
+  height: 100%;
+}
+.container {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  margin: 10px 10px;
+}
+.name {
+  text-transform: capitalize;
+}
+.reviewContainer {
+  overflow: auto;
+  /* Enable scrolling */
+}
+.review-text {
+  overflow: auto;
+  /* Enable scrolling */
+  max-height: 100%;
+  /* Ensure it doesn’t exceed container height */
+  line-height: 1.4;
+  /* Adjust line height for readability */
+  font-size: 12px;
+  /* Adjust font size as needed */
+  padding: 20px;
+  /* Optional padding */
+}
+
+
+/*# sourceMappingURL=https://localhost:8080/assets/visual.css.map*/

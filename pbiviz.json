@@ -1,0 +1,28 @@
+{
+  "visual": {
+    "name": "reviewViewer",
+    "displayName": "Review Viewer",
+    "guid": "reviewViewer1234",
+    "visualClassName": "Visual",
+    "version": "1.0.0.0",
+    "description": "A visual that displays reviews from a data set.",
+    "supportUrl": "https://support.com",
+    "gitHubUrl": "https://github.com/your-repo"
+  },
+  "apiVersion": "4.7.0",
+  "author": {
+    "name": "Your Name",
+    "email": "your.email@example.com"
+  },
+  "assets": {
+    "icon": "assets/icon.png"
+  },
+  "externalJS": [],
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "dependencies": null,
+  "stringResources": [],
+  "visualConfig": {
+    "port": 8082
+  }
+}
