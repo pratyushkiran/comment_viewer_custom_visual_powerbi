@@ -5,11 +5,12 @@ import VisualUpdateOptions = powerbi.extensibility.visual.VisualUpdateOptions;
 import IVisual = powerbi.extensibility.visual.IVisual;
 export declare class Visual implements IVisual {
     private host;
-    private svg;
-    private container;
-    private image;
+    private customVisual;
+    private userInfoContainer;
+    private userImage;
     private name;
     private reviewContainer;
+    private userInfoTextContainer;
     private rating;
     private data;
     private previousData;

@@ -35,7 +35,16 @@
       }
     }
   ],
-  "objects": {},
+  "objects": {
+    "MyCustomObjects": {
+      "properties": {
+        "imageHeight": {
+          "displayName": "Image Height",
+          "type": { "numeric": true }
+        }
+      }
+    }
+  },
   "sorting": {
     "default": {}
   },

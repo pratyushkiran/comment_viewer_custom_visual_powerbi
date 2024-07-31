@@ -5,9 +5,9 @@ import VisualConstructorOptions = powerbiVisualsApi.extensibility.visual.VisualC
 import DialogConstructorOptions = powerbiVisualsApi.extensibility.visual.DialogConstructorOptions;
 var powerbiKey: any = "powerbi";
 var powerbi: any = window[powerbiKey];
-var reviewViewer1234_DEBUG: IVisualPlugin = {
-    name: 'reviewViewer1234_DEBUG',
-    displayName: 'Review Viewer',
+var commentViewer: IVisualPlugin = {
+    name: 'commentViewer',
+    displayName: 'Comment Viewer',
     class: 'Visual',
     apiVersion: '4.7.0',
     create: (options?: VisualConstructorOptions) => {
@@ -27,6 +27,6 @@ var reviewViewer1234_DEBUG: IVisualPlugin = {
 if (typeof powerbi !== "undefined") {
     powerbi.visuals = powerbi.visuals || {};
     powerbi.visuals.plugins = powerbi.visuals.plugins || {};
-    powerbi.visuals.plugins["reviewViewer1234_DEBUG"] = reviewViewer1234_DEBUG;
+    powerbi.visuals.plugins["commentViewer"] = commentViewer;
 }
-export default reviewViewer1234_DEBUG;
+export default commentViewer;
