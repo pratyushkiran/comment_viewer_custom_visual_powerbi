@@ -8,3 +8,4 @@
 
 
 | [Download the Visual](https://github.com/pratyushkiran/comment_viewer_custom_visual_powerbi/raw/main/dist/reviewViewer1234.1.0.0.0.pbiviz) |
+|---|
