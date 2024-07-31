@@ -6,5 +6,4 @@
 |---|---|
 | ![visual](https://github.com/user-attachments/assets/17bbbc5a-fc53-4ffc-af58-614f040985c7) | ![fields](https://github.com/user-attachments/assets/ae7c51c3-2d89-4325-82b2-76c7bb577ee8) |
 
-### The Fields:
-![fields](https://github.com/user-attachments/assets/ae7c51c3-2d89-4325-82b2-76c7bb577ee8)
+
