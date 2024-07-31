@@ -1,6 +1,6 @@
 # Comment Viewer Custom Visual for PowerBI
 
-![Comment Viewer Icon](https://github.com/user-attachments/assets/fde3640f-1fe3-44d2-b20e-9c0648e5c3b9)
+![Comment Viewer Icon](https://github.com/user-attachments/assets/fde3640f-1fe3-44d2-b20e-9c0648e5c3b9) [Download the Visual](https://github.com/pratyushkiran/comment_viewer_custom_visual_powerbi/raw/main/dist/reviewViewer1234.1.0.0.0.pbiviz)
 
 | Card | Fields |
 |---|---|
